@@ -1,12 +1,5 @@
-# ibm-quantum-challenge-202-中文版解答
+# ibm-quantum-challenge-202 - 中文版解答
 For IBM Quantum Challenge 2021 (May 20 - 26)  ibm.co/iqc2021
-
-# IBM Quantum Challenge 2021
-
-**The challenge is now LIVE!**
-
-**You can [join the challenge](https://ibm.co/iqc2021) any time before 9pm EDT, May 26, 2021.**
-
 ## Introduction
 
 Commemorating the 40-year anniversary of the Physics of Computation conference, and 5-year anniversary of IBM putting the first quantum computer on the cloud, we're excited to present the IBM Quantum Challenge 2021.
